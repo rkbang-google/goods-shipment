@@ -1,0 +1,2 @@
+from .auth_controller import register_user_routes
+from .shipment_controller import register_shipment_routes
